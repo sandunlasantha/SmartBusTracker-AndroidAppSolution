@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Bus Tracker</string>
+    <string name="title_activity_single_map_detail_page">Map</string>
+    <string name="title_activity_common_map_detail_page">Map</string>
+</resources>
